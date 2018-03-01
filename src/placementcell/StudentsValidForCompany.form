@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="b1" min="-2" max="-2" attributes="0"/>
+                  <Component id="c1" min="-2" pref="111" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="l1" min="-2" pref="80" max="-2" attributes="0"/>
+                      <EmptySpace pref="125" max="32767" attributes="0"/>
+                      <Component id="t1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="l13" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l11" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l10" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l8" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="l9" max="32767" attributes="0"/>
+                          <Component id="l12" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="t2" max="32767" attributes="0"/>
+                          <Component id="t3" max="32767" attributes="0"/>
+                          <Component id="t4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t8" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t9" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t10" alignment="0" pref="97" max="32767" attributes="0"/>
+                          <Component id="t11" alignment="0" max="32767" attributes="0"/>
+                          <Component id="t12" max="32767" attributes="0"/>
+                          <Component id="t13" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="t1" min="-2" max="-2" attributes="0"/>
+                  <Component id="l1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="b1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="c1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="l2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="t2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="l3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="t3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="l4" min="-2" max="-2" attributes="0"/>
+                          <Component id="t4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="l5" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="t5" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l6" min="-2" max="-2" attributes="0"/>
+                  <Component id="t6" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l7" min="-2" max="-2" attributes="0"/>
+                  <Component id="t7" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l8" min="-2" max="-2" attributes="0"/>
+                  <Component id="t8" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l9" min="-2" max="-2" attributes="0"/>
+                  <Component id="t9" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l10" min="-2" max="-2" attributes="0"/>
+                  <Component id="t10" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l11" min="-2" max="-2" attributes="0"/>
+                  <Component id="t11" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l12" min="-2" max="-2" attributes="0"/>
+                  <Component id="t12" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="l13" min="-2" max="-2" attributes="0"/>
+                  <Component id="t13" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="19" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="java.awt.Label" name="l1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter Roll No"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField1"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Button" name="b1">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="View Company Name"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="b1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Choice" name="c1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="c1MouseClicked"/>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="c1ItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="l2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Company Name"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Director"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Contact"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Location"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Profile"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tenth Marks"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Twelth Marks"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GraduationMarks"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Computer Test"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Password"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField2"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField3"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField4"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField5"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField6"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField7"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField8"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField9"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField10"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField11"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField12"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="l13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="About"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="t13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textField1"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
